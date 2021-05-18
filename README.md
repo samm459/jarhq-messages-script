@@ -6,7 +6,7 @@ First install dependencies with:
 
 ```yarn```
 
-Add your details to the function call on line 24
+Add your details to the function call on line 24 in index.js
 
 Then run index.js
 
