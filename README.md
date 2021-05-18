@@ -6,6 +6,8 @@ First install dependencies with:
 
 ```yarn```
 
+Add your details to the function call on line 24
+
 Then run index.js
 
 ```node index.js```
