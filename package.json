@@ -1,0 +1,9 @@
+{
+  "name": "simulate-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
